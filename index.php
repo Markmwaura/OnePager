@@ -67,9 +67,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">We've got what you need!</h2>
+                    <h2 class="section-heading">What do you need!</h2>
                     <hr class="light">
-                    <p class="text-faded">We're ready to create your new idea into reality!</p>
+                    <p class="text-faded">Ready to create your new idea into reality!</p>
                     <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Get Started!</a>
                 </div>
             </div>
@@ -90,8 +90,8 @@
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-diamond text-primary sr-icons"></i>
-                        <h3>Sturdy Templates</h3>
-                        <p class="text-muted">Our templates are updated regularly so they don't break.</p>
+                        <h3>Sturdy Applications</h3>
+                        <p class="text-muted">Projects are updated regularly so they don't break.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
@@ -138,7 +138,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="<?php echo bloginfo('template_directory').'/assets/portfolio/fullsize/2.jpg';?>" class="portfolio-box">
+                    <a href="<?php echo bloginfo('template_directory').'/assets/img/portfolio/fullsize/2.jpg';?>" class="portfolio-box">
                         <img src="<?php echo bloginfo('template_directory').'/assets/img/portfolio/thumbnails/2.jpg';?>" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -216,22 +216,13 @@
         </div>
     </section>
 
-    <!-- <aside class="bg-dark">
-        <div class="container text-center">
-            <div class="call-to-action">
-                <h2>Free Download at Start Bootstrap!</h2>
-                <a href="http://startbootstrap.com/template-overviews/creative/" class="btn btn-default btn-xl sr-button">Download Now!</a>
-            </div>
-        </div>
-    </aside> -->
-
     <section id="contact">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">Let's Get In Touch!</h2>
                     <hr class="primary">
-                    <p>Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p>
+                    <p>Ready to start your next project? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p>
                 </div>
                 <div class="col-lg-4 col-lg-offset-2 text-center">
                     <i class="fa fa-phone fa-3x sr-contact"></i>
