@@ -131,7 +131,7 @@
                                     Category
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Project One
                                 </div>
                             </div>
                         </div>
@@ -146,7 +146,7 @@
                                     Category
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Project Two
                                 </div>
                             </div>
                         </div>
@@ -161,7 +161,7 @@
                                     Category
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Project Three
                                 </div>
                             </div>
                         </div>
@@ -176,7 +176,7 @@
                                     Category
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Project Four
                                 </div>
                             </div>
                         </div>
@@ -191,7 +191,7 @@
                                     Category
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Project Five
                                 </div>
                             </div>
                         </div>
@@ -206,7 +206,7 @@
                                     Category
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Project Six
                                 </div>
                             </div>
                         </div>
